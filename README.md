@@ -16,7 +16,7 @@ Um boilerplate moderno e leve para construir aplicações desktop com **Electron
 
 ---
 
-## 📁 Estrutura de Pastas
+## 📁 Estrutura de Pastas 
 
 ```bash
 .
